@@ -1,4 +1,4 @@
-package RePracticeAlgo;
+package ProblemSetV;
 
 import java.util.Arrays;
 
